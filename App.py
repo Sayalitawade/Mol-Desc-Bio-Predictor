@@ -6,6 +6,7 @@ import os
 import base64
 import pickle
 import sklearn
+import typing_extensions
 
 
 # Molecular descriptor calculator
