@@ -4,3 +4,4 @@ base64==3.4.0
 subprocess
 os
 pickle
+scikit-learn
