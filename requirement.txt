@@ -5,3 +5,4 @@ subprocess
 os
 pickle
 scikit-learn
+typing_extensions
