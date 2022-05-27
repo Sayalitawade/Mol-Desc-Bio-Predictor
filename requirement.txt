@@ -5,4 +5,4 @@ scikit-learn==0.22.1
 subprocess
 os
 pickle
-typing-extensions==3.10.0.2
+typing_extensions==3.10.0.2
