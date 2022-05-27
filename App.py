@@ -5,6 +5,7 @@ from PIL import Image
 import os
 import base64
 import pickle
+import sklearn
 
 
 # Molecular descriptor calculator
