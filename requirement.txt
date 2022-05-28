@@ -1,9 +1,0 @@
-streamlit==1.7.0
-numpy==1.20.2
-pandas==1.4.2
-base58==2.0.1
-scikit-learn==0.22.1
-subprocess
-os
-pickle
-typing_extensions==3.10.0.2
